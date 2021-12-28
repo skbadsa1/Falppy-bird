@@ -58,7 +58,7 @@ def mainGame():
         {'x': SCREENWIDTH+200, 'y':newPipe1[0]['y']},
         {'x': SCREENWIDTH+200+(SCREENWIDTH/2), 'y':newPipe2[0]['y']},
     ]
-    # my List of lower pipes
+    # my List of lower pipes  it is just a test
     lowerPipes = [
         {'x': SCREENWIDTH+200, 'y':newPipe1[1]['y']},
         {'x': SCREENWIDTH+200+(SCREENWIDTH/2), 'y':newPipe2[1]['y']},
